@@ -13,7 +13,6 @@ var valor1 = 0
 function atualizarOperacao(btn){
     const display = document.getElementById('display');
     atualizarDisplay(btn);
-
 }
 
 function calcularOperacao(){
